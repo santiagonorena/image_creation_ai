@@ -10,6 +10,8 @@
 ### Type:
 G.A.N. - Generative Adversarial Networks
 
+![gans concept image](gans_image.png)
+
 ### Technologies:
 - Python
 - PyTorch
