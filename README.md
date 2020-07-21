@@ -15,3 +15,17 @@ G.A.N. - Generative Adversarial Networks
 ### Technologies:
 - Python
 - PyTorch
+
+### Submission Deadline:
+5:00pm EDT Aug 25, 2020
+
+### Project Architecture
+
+#### Use Case Diagram
+
+![use case diagram](Cross-funtional_SwimlaneDiagram-PyTorchHackathon-Jul20_20.jpg)
+
+#### Cross-Function / Swim Lane Diagram
+
+![cross-function / swim lane diagram](UseCaseDiagram-PytorchHackaton-Jul20_20.jpg)
+
