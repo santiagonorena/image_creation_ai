@@ -1,4 +1,4 @@
- Image Creation A.I.
+# Image Creation A.I.
 ## PyTorch Hackathon Summer 2020 Project
 
 ### Project Group Members:
