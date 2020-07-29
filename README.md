@@ -6,6 +6,7 @@
 - Alejandro Martinez
 - Hector Mejia
 - Sahivy Gonzalez
+- Nicolas David
 
 ### Type:
 G.A.N. - Generative Adversarial Networks
