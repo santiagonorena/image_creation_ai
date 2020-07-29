@@ -27,5 +27,5 @@ G.A.N. - Generative Adversarial Networks
 
 #### Cross-Function / Swim Lane Diagram
 
-![cross-function / swim lane diagram](UML-diagrams/Cross-funtional_SwimlaneDiagram-PyTorchHackathon-Jul20_20.jpg))
+![cross-function / swim lane diagram](UML-diagrams/Cross-funtional_SwimlaneDiagram-PyTorchHackathon-Jul20_20.jpg)
 
