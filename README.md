@@ -21,11 +21,11 @@ G.A.N. - Generative Adversarial Networks
 
 ### Project Architecture
 
-#### Use Case Diagram
+#### Use Case Diagram (VERSION 1)
 
 ![use case diagram](UML-diagrams/UseCaseDiagram-PytorchHackaton-Jul20_20.jpg)
 
-#### Cross-Function / Swim Lane Diagram
+#### Cross-Function / Swim Lane Diagram (VERSION 1)
 
 ![cross-function / swim lane diagram](UML-diagrams/Cross-funtional_SwimlaneDiagram-PyTorchHackathon-Jul20_20.jpg)
 
