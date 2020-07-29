@@ -23,9 +23,9 @@ G.A.N. - Generative Adversarial Networks
 
 #### Use Case Diagram
 
-![use case diagram](UML-diagrams/Cross-funtional_SwimlaneDiagram-PyTorchHackathon-Jul20_20.jpg)
+![use case diagram](UML-diagrams/UseCaseDiagram-PytorchHackaton-Jul20_20.jpg)
 
 #### Cross-Function / Swim Lane Diagram
 
-![cross-function / swim lane diagram](UseCaseDiagram-PytorchHackaton-Jul20_20.jpg)
+![cross-function / swim lane diagram]((UML-diagrams/Cross-funtional_SwimlaneDiagram-PyTorchHackathon-Jul20_20.jpg))
 
